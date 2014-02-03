@@ -1,5 +1,7 @@
 Attribute VB_Name = "Program"
 Option Explicit
+Public Const RepositoryName As String = "SIE_EDI_IMall"
+Public Const VersionNumber As String = "1.0.0"
 
 Sub Main()
     Dim PO As String
